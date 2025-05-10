@@ -1,2 +1,2 @@
-# Motion_detector_app
+# Classifying App
 Assignment 2
